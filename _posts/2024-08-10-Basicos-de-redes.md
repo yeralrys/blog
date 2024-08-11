@@ -46,5 +46,5 @@ Por último, las diferentes topologías, de acuerdo a la manera en como esté di
 - **Ring** - Al igual que un anillo es una conexión circular donde cada dispositivo esta conectado a otros dos en extremos diferentes. 
 - **Bus** - Todos los dispositivos van conectados a un cable central (bus)
 - **Star** - Todos los dispositivos van conectados a un equipo central formando una estrella, como la conexión a un switch.
-- **Hub-and-Spoke** - Parecido a la topology de anterior, pero puede tener otros dispositivos centrales con equipos terceros conectados a ellos.
+- **Hub-and-Spoke** - Parecido a la topología anterior, pero puede tener otros dispositivos centrales con equipos terceros conectados a ellos.
 - **Mesh** - Dentro de esta topología cada dispositivo esta conectado directamente a todos los demás, brindando redundancia, por ejemplo, si hay 5 dispositivos cada uno esta conectado de forma directa a los otros 4.  
