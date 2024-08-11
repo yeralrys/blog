@@ -4,5 +4,9 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+# Yeral Reyes
+
+Hola, tengo un canal de youtube con un video publicado, sigo trabajando este apartado.
+
+Acepto sugerencias, preguntas, recomendaciones, quejas, contactame por correo o una de mis redes. 
+

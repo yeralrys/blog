@@ -16,14 +16,14 @@ timezone: America/Santo_Domingo
 
 title: Yeral Reyes # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: Cybersecurity Specialist # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Cybersecurity and Networks.
+  Cybersecurity, Networks, Linux and Cloud.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://blog.yeralrys.com"
+url: "https://yeralrys.com"
 
 github:
   username: yeralrys # change to your github username
@@ -42,7 +42,7 @@ social:
     - https://github.com/yeralrys # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/yeralrys
 
 # Site Verification Settings
 webmaster_verifications:
