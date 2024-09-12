@@ -1,5 +1,5 @@
 ---
-title: Conceptos fundamentales de redes
+title: Conceptos basicos de redes
 date: 2024-08-10
 categories: [Redes]
 tags: [network]     # TAG names should always be lowercase
