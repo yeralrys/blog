@@ -1,6 +1,6 @@
 ---
 title: Agregar IP al Prompt de BASH
-date: 2024-08-12
+date: 2024-09-12
 categories: [Linux]
 tags: [bash]     # TAG names should always be lowercase
 ---
